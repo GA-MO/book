@@ -39,6 +39,17 @@ Course layout for Forviz 2017 Team
  - use console to debug
  - source / watch / local
 
+#### Developer workflow
+> Required for: `Developer` `PM`
+
+ - git branch, git merge
+ - pull request, merge request
+
+#### Code structure
+> Required for: `Developer`
+
+## Coding
+
 #### Course Utility Belt:
 > Required for: `Developer`
 
@@ -57,16 +68,6 @@ Course layout for Forviz 2017 Team
  - Arrow function
  - const / let vs var
 
-#### Developer workflow
-> Required for: `Developer` `PM`
-
- - git branch, git merge
- - pull request, merge request
-
-#### Code structure
-> Required for: `Developer`
-
-## Coding
 
 #### Developing Web Application
 > Required for: `Developer`
